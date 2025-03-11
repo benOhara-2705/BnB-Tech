@@ -1,1 +1,2 @@
-Agile Project # BnB-Tech, Brent C Forge and Ben Ohara
+# BnB-Tech
+This project was created by Brent C Forge and Ben 0'Hara for the process of creating a website using Agile.
